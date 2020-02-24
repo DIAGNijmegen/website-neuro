@@ -103,6 +103,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://diagnijmegen.github.io/website-neuro/NA</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://diagnijmegen.github.io/website-neuro/http://dx.doi.org/10.1118/1.4951726</loc>
     <priority>1.0</priority>
   </url>
